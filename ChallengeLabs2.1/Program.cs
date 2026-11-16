@@ -21,27 +21,27 @@ class Program
         int temp = Convert.ToInt32(Console.ReadLine());
         if (temp < 10)
         {
-            Console.WriteLine("Freezing weather");
+            Console.WriteLine("Really freezing weather");
         }
         else if (temp >= 11 && temp <= 20)
         {
-            Console.WriteLine("Very Cold weather");
+            Console.WriteLine("Freezing weather");
         }
         else if (temp >= 21 && temp <= 35)
         {
-            Console.WriteLine("Cold weather");
+            Console.WriteLine("Still freezing weather");
         }
         else if (temp >= 36 && temp <= 50)
         {
-            Console.WriteLine("Normal in Weather");
+            Console.WriteLine("Pretty cold weather");
         }
         else if (temp >= 51 && temp <= 65)
         {
-            Console.WriteLine("Its Hot");
+            Console.WriteLine("Cold weather");
         }
         else if (temp >= 66 && temp <= 80)
         {
-            Console.WriteLine("Its Very Hot");
+            Console.WriteLine("Moderate to warm weather");
         }
         else
         {
