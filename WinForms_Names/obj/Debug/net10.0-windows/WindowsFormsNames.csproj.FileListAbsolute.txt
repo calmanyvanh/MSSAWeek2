@@ -1,0 +1,17 @@
+C:\Users\calma\source\repos\WindowsFormsNames\bin\Debug\net10.0-windows\WindowsFormsNames.exe
+C:\Users\calma\source\repos\WindowsFormsNames\bin\Debug\net10.0-windows\WindowsFormsNames.deps.json
+C:\Users\calma\source\repos\WindowsFormsNames\bin\Debug\net10.0-windows\WindowsFormsNames.runtimeconfig.json
+C:\Users\calma\source\repos\WindowsFormsNames\bin\Debug\net10.0-windows\WindowsFormsNames.dll
+C:\Users\calma\source\repos\WindowsFormsNames\bin\Debug\net10.0-windows\WindowsFormsNames.pdb
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\WindowsFormsNames.Names.resources
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\WindowsFormsNames.csproj.GenerateResource.cache
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\WindowsFormsNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\WindowsFormsNames.AssemblyInfoInputs.cache
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\WindowsFormsNames.AssemblyInfo.cs
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\WindowsFormsNames.csproj.CoreCompileInputs.cache
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\WindowsFormsNames.dll
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\refint\WindowsFormsNames.dll
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\WindowsFormsNames.pdb
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\WindowsFormsNames.genruntimeconfig.cache
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\ref\WindowsFormsNames.dll
+C:\Users\calma\source\repos\WindowsFormsNames\obj\Debug\net10.0-windows\WindowsF.5D885015.Up2Date
